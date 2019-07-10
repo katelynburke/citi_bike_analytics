@@ -15,5 +15,5 @@ This project focuses on Citi Bike Trip Data from 2018 to 2019.
 
 ## Visualizations Created: 
 
-## Final Tableau Visualization Images: 
+## Examples of the Final Tableau Visualization Images: 
 
