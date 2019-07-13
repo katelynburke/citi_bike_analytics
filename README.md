@@ -14,6 +14,12 @@ This project focuses on Citi Bike Trip Data from January - December 2018
 ## Questions Explored:
 
 ## Visualizations Created: 
+- Start/End Station Popularity 
+- Top 10 Stations to Begin and End a Ride
+- Rides Taken by Birth Year/Age 
+- Top Bikes (by ID number) that Most Likely Need Repair
+- Rider Type: Customers vs. Subscribers 
+- Summertime (June 2018) Trip Duration 
 
 ## Examples of the Final Tableau Visualization Images: 
 ### (view 'Final Tableau Images' to see all graphs created)
