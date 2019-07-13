@@ -15,7 +15,7 @@ This project focuses on Citi Bike Trip Data from January - December 2018
 
 ## Visualizations Created: 
 
-## Examples of the Final Tableau Visualization Images: 
+## Examples of the Final Tableau Visualization Images (view 'Final Tableau Images' to see all graphs created): 
 ![visualization1](https://github.com/katelynburke/citi_bike_analytics/blob/master/images/tableau1.png)
 #### Bubble plot shows the popularity of Citi Bike Start Stations 
 ![visualization1](https://github.com/katelynburke/citi_bike_analytics/blob/master/images/tableau2.png)
