@@ -9,6 +9,9 @@ Renting a Citi Bike is a fun, green, and easy way to travel around New York and 
 ## Project Overview:
 This project uses the visualization and analytics software Tableau. In this project, I aggregate the data found in the Citi Bike Trip History Logs to build a data story on Tableau to answer many pressing questions about Citi Bike. I also used Python Pandas and Jupyter Notebook to clean and merge the Citi Bike data sets. The Tableau story I have created, helps report interesting facts and data about the Citi Bike program during 2018 and 2019 in an engaging, understandable, and colorful way.
 
+## Link to City Bike Tableau Story: 
+https://public.tableau.com/profile/katelyn.burke6698#!/vizhome/CitiBikeAnalytics_15632009289730/CitiBikeAnalytics
+
 This project focuses on Citi Bike Trip Data from January - December 2018
 
 ## Questions Explored:
@@ -16,6 +19,7 @@ This project focuses on Citi Bike Trip Data from January - December 2018
 ## Visualizations Created: 
 - Start/End Station Popularity 
 - Top 10 Stations to Begin and End a Ride
+- Bottom 10 Stations to Begin and End a Ride
 - Rides Taken by Birth Year/Age 
 - Top Bikes (by ID number) that Most Likely Need Repair
 - Rider Type: Customers vs. Subscribers 
